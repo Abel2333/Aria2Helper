@@ -1,0 +1,10 @@
+{
+  "aria2Path": "D:\\Pro\\Program Files\\Aria2",
+  "logFile": "aria2.log",
+  "dirPath": "D:\\Doc\\Download",
+  "fileSplit": 7,
+  "allocation": "falloc",
+  "downContinue": "true",
+  "connection": 7,
+  "splitSize": "3145728"
+}

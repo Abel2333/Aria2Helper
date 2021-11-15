@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.abel.AppTest" time="0.028" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="16"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\Doc\Code\prictice\Aria2Helper\target\test-classes;D:\Doc\Code\prictice\Aria2Helper\target\classes;D:\Doc\Maven\DefaultRepository\junit\junit\4.11\junit-4.11.jar;D:\Doc\Maven\DefaultRepository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-base\17.0.1\javafx-base-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-base\17.0.1\javafx-base-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-graphics\17.0.1\javafx-graphics-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-graphics\17.0.1\javafx-graphics-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-controls\17.0.1\javafx-controls-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-controls\17.0.1\javafx-controls-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-fxml\17.0.1\javafx-fxml-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-fxml\17.0.1\javafx-fxml-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\com\fasterxml\jackson\core\jackson-databind\2.13.0\jackson-databind-2.13.0.jar;D:\Doc\Maven\DefaultRepository\com\fasterxml\jackson\core\jackson-annotations\2.13.0\jackson-annotations-2.13.0.jar;D:\Doc\Maven\DefaultRepository\com\fasterxml\jackson\core\jackson-core\2.13.0\jackson-core-2.13.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="D:\Pro\Program Files\Java\jdk-16.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\Abel\AppData\Local\Temp\surefire6236509678656573008\surefirebooter11878368252593890788.jar C:\Users\Abel\AppData\Local\Temp\surefire6236509678656573008 2021-11-15T16-54-31_388-jvmRun1 surefire12905849563700469506tmp surefire_010076289991236775779tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Doc\Code\prictice\Aria2Helper\target\test-classes;D:\Doc\Code\prictice\Aria2Helper\target\classes;D:\Doc\Maven\DefaultRepository\junit\junit\4.11\junit-4.11.jar;D:\Doc\Maven\DefaultRepository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-base\17.0.1\javafx-base-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-base\17.0.1\javafx-base-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-graphics\17.0.1\javafx-graphics-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-graphics\17.0.1\javafx-graphics-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-controls\17.0.1\javafx-controls-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-controls\17.0.1\javafx-controls-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-fxml\17.0.1\javafx-fxml-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-fxml\17.0.1\javafx-fxml-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\com\fasterxml\jackson\core\jackson-databind\2.13.0\jackson-databind-2.13.0.jar;D:\Doc\Maven\DefaultRepository\com\fasterxml\jackson\core\jackson-annotations\2.13.0\jackson-annotations-2.13.0.jar;D:\Doc\Maven\DefaultRepository\com\fasterxml\jackson\core\jackson-core\2.13.0\jackson-core-2.13.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Abel"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.home" value="D:\Pro\Program Files\Java\jdk-16.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\Doc\Code\prictice\Aria2Helper"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Abel\AppData\Local\Temp\surefire6236509678656573008\surefirebooter11878368252593890788.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="16.0.1+9-24"/>
+    <property name="user.name" value="Abel"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\Doc\Maven\DefaultRepository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Abel\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2021.2.2"/>
+    <property name="java.version" value="16.0.1"/>
+    <property name="user.dir" value="D:\Doc\Code\prictice\Aria2Helper"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\Pro\Program Files\Java\jdk-16.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Pro\Program Files\Python\Python39\Scripts\;D:\Pro\Program Files\Python\Python39\;C:\Windows\system32;D:\Pro\Program Files\Java\jdk-16.0.1\bin;D:\Pro\Program Files\Java\jdk-16.0.1\jre\bin;D:\Pro\Program Files\Apache Software Foundation\Tomcat 9.0\bin;D:\Pro\Program Files\Java\maven-3.6.3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\MinGW_64\bin;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Pro\Program Files\Polyspace\R2019b\runtime\win64;D:\Pro\Program Files\Polyspace\R2019b\bin;D:\Pro\Program Files\Polyspace\R2019b\polyspace\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;D:\Pro\Program Files\PuTTY\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Pro\Program Files\Git\cmd;D:\Pro\Program Files\MySQL\mysql-8.0.25-winx64\bin;C:\Users\Abel\AppData\Local\Microsoft\WindowsApps;C:\MinGW_64\bin;D:\Pro\Program Files\JetBrains\PyCharm 2019.3.3\bin;;C:\Program Files\JetBrains\PyCharm Community Edition 2021.2.2\bin;;D:\Pro\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\bin;;C:\Users\Abel\AppData\Local\GitHubDesktop\bin;D:\Pro\Program Files\JetBrains\CLion 2020.2.3\bin;;D:\Pro\Program Files\Microsoft VS Code\bin;D:\Pro\Program Files\Aria2;D:\Pro\Program Files\texlive\2020\bin\win32;C:\Users\Abel\.dotnet\tools;D:\Pro\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin;;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="16.0.1+9-24"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.repo.local" value="D:\Doc\Maven\DefaultRepository"/>
+    <property name="java.class.version" value="60.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="org.abel.AppTest" time="0.002"/>
+</testsuite>
