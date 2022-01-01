@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.abel.AppTest" time="0.028" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.abel.AppTest" time="0.03" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="16"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="GBK"/>
-    <property name="java.class.path" value="D:\Doc\Code\prictice\Aria2Helper\target\test-classes;D:\Doc\Code\prictice\Aria2Helper\target\classes;D:\Doc\Maven\DefaultRepository\junit\junit\4.11\junit-4.11.jar;D:\Doc\Maven\DefaultRepository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-base\17.0.1\javafx-base-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-base\17.0.1\javafx-base-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-graphics\17.0.1\javafx-graphics-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-graphics\17.0.1\javafx-graphics-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-controls\17.0.1\javafx-controls-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-controls\17.0.1\javafx-controls-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-fxml\17.0.1\javafx-fxml-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-fxml\17.0.1\javafx-fxml-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\com\fasterxml\jackson\core\jackson-databind\2.13.0\jackson-databind-2.13.0.jar;D:\Doc\Maven\DefaultRepository\com\fasterxml\jackson\core\jackson-annotations\2.13.0\jackson-annotations-2.13.0.jar;D:\Doc\Maven\DefaultRepository\com\fasterxml\jackson\core\jackson-core\2.13.0\jackson-core-2.13.0.jar;"/>
+    <property name="java.class.path" value="D:\Doc\Github\Aria2Helper\target\test-classes;D:\Doc\Github\Aria2Helper\target\classes;C:\Users\Abel\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Abel\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-base\17.0.1\javafx-base-17.0.1.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-base\17.0.1\javafx-base-17.0.1-win.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-graphics\17.0.1\javafx-graphics-17.0.1.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-graphics\17.0.1\javafx-graphics-17.0.1-win.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-controls\17.0.1\javafx-controls-17.0.1.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-controls\17.0.1\javafx-controls-17.0.1-win.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-fxml\17.0.1\javafx-fxml-17.0.1.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-fxml\17.0.1\javafx-fxml-17.0.1-win.jar;C:\Users\Abel\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.0\jackson-databind-2.13.0.jar;C:\Users\Abel\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.0\jackson-annotations-2.13.0.jar;C:\Users\Abel\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.0\jackson-core-2.13.0.jar;C:\Users\Abel\.m2\repository\org\jetbrains\annotations\23.0.0\annotations-23.0.0.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CN"/>
     <property name="sun.boot.library.path" value="D:\Pro\Program Files\Java\jdk-16.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\Abel\AppData\Local\Temp\surefire6236509678656573008\surefirebooter11878368252593890788.jar C:\Users\Abel\AppData\Local\Temp\surefire6236509678656573008 2021-11-15T16-54-31_388-jvmRun1 surefire12905849563700469506tmp surefire_010076289991236775779tmp"/>
+    <property name="sun.java.command" value="C:\Users\Abel\AppData\Local\Temp\surefire11641896725057774370\surefirebooter14778246206915403175.jar C:\Users\Abel\AppData\Local\Temp\surefire11641896725057774370 2021-11-15T23-05-27_486-jvmRun1 surefire3561072841250907892tmp surefire_015176989486088869070tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="D:\Doc\Code\prictice\Aria2Helper\target\test-classes;D:\Doc\Code\prictice\Aria2Helper\target\classes;D:\Doc\Maven\DefaultRepository\junit\junit\4.11\junit-4.11.jar;D:\Doc\Maven\DefaultRepository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-base\17.0.1\javafx-base-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-base\17.0.1\javafx-base-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-graphics\17.0.1\javafx-graphics-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-graphics\17.0.1\javafx-graphics-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-controls\17.0.1\javafx-controls-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-controls\17.0.1\javafx-controls-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-fxml\17.0.1\javafx-fxml-17.0.1.jar;D:\Doc\Maven\DefaultRepository\org\openjfx\javafx-fxml\17.0.1\javafx-fxml-17.0.1-win.jar;D:\Doc\Maven\DefaultRepository\com\fasterxml\jackson\core\jackson-databind\2.13.0\jackson-databind-2.13.0.jar;D:\Doc\Maven\DefaultRepository\com\fasterxml\jackson\core\jackson-annotations\2.13.0\jackson-annotations-2.13.0.jar;D:\Doc\Maven\DefaultRepository\com\fasterxml\jackson\core\jackson-core\2.13.0\jackson-core-2.13.0.jar;"/>
+    <property name="surefire.test.class.path" value="D:\Doc\Github\Aria2Helper\target\test-classes;D:\Doc\Github\Aria2Helper\target\classes;C:\Users\Abel\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Abel\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-base\17.0.1\javafx-base-17.0.1.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-base\17.0.1\javafx-base-17.0.1-win.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-graphics\17.0.1\javafx-graphics-17.0.1.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-graphics\17.0.1\javafx-graphics-17.0.1-win.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-controls\17.0.1\javafx-controls-17.0.1.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-controls\17.0.1\javafx-controls-17.0.1-win.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-fxml\17.0.1\javafx-fxml-17.0.1.jar;C:\Users\Abel\.m2\repository\org\openjfx\javafx-fxml\17.0.1\javafx-fxml-17.0.1-win.jar;C:\Users\Abel\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.0\jackson-databind-2.13.0.jar;C:\Users\Abel\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.0\jackson-annotations-2.13.0.jar;C:\Users\Abel\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.0\jackson-core-2.13.0.jar;C:\Users\Abel\.m2\repository\org\jetbrains\annotations\23.0.0\annotations-23.0.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Abel"/>
     <property name="user.language" value="zh"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2021-04-20"/>
     <property name="java.home" value="D:\Pro\Program Files\Java\jdk-16.0.1"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="D:\Doc\Code\prictice\Aria2Helper"/>
+    <property name="basedir" value="D:\Doc\Github\Aria2Helper"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Abel\AppData\Local\Temp\surefire6236509678656573008\surefirebooter11878368252593890788.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Abel\AppData\Local\Temp\surefire11641896725057774370\surefirebooter14778246206915403175.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="16.0.1+9-24"/>
@@ -40,12 +40,12 @@
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="GBK"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
-    <property name="localRepository" value="D:\Doc\Maven\DefaultRepository"/>
+    <property name="localRepository" value="C:\Users\Abel\.m2\repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\Abel\AppData\Local\Temp\"/>
     <property name="idea.version" value="2021.2.2"/>
     <property name="java.version" value="16.0.1"/>
-    <property name="user.dir" value="D:\Doc\Code\prictice\Aria2Helper"/>
+    <property name="user.dir" value="D:\Doc\Github\Aria2Helper"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -54,8 +54,7 @@
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="16.0.1+9-24"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="maven.repo.local" value="D:\Doc\Maven\DefaultRepository"/>
     <property name="java.class.version" value="60.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="org.abel.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="org.abel.AppTest" time="0.001"/>
 </testsuite>

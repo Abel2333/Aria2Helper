@@ -1,9 +1,9 @@
 package org.abel.inf;
 
 public enum FileLocate {
-    PRIMAL("/fxml/InterfaceController.fxml"),
-    URLDOWN("/fxml/URLController.fxml"),
-    FILEDOWN("/fxml/FileController.fxml");
+    PRIMAL("/fxml/Interface.fxml"),
+    URLDOWN("/fxml/URLDownload.fxml"),
+    FILEDOWN("/fxml/FileDownload.fxml");
 
     private final String path;
 
