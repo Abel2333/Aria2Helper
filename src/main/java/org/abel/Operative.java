@@ -33,7 +33,6 @@ public class Operative {
         String[] arr = {"path=" + aria2Path};
         Process process = Runtime.getRuntime().exec(getCommands(), arr, new File(aria2Path));
         process.waitFor();
-
         process.destroy();
     }
 }

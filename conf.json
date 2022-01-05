@@ -3,7 +3,7 @@
   "logFile": "aria2.log",
   "dirPath": "D:\\Doc\\Download",
   "fileSplit": 7,
-  "allocation": "falloc",
+  "allocation": "prealloc",
   "downContinue": "true",
   "connection": 7,
   "splitSize": "3145728"

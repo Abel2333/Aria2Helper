@@ -1,12 +1,10 @@
-package org.abel.inf;
+package org.abel.Controller;
 
-import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
-import javafx.stage.Stage;
-
-import java.io.IOException;
+import org.abel.FileLocate;
+import org.abel.view.Main;
 
 public class InterfaceController {
 
@@ -23,7 +21,7 @@ public class InterfaceController {
 
     @FXML
     void handleFileButton(ActionEvent event) {
-        System.out.println(getClass());
+        Main.changeInterface(FileLocate.FILEDOWN.toString());
     }
 
 }

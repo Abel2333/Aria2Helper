@@ -1,4 +1,4 @@
-package org.abel.inf;
+package org.abel;
 
 public enum FileLocate {
     PRIMAL("/fxml/Interface.fxml"),
